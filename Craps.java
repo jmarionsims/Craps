@@ -82,3 +82,18 @@ public class Craps
 
   }
 }
+
+/*
+
+COMMENTS FROM THE INSTRUCTOR:
+
+Well, you didn't include your name or the date in the JavaDocs up at the top, Jack--it's a
+good think I was able to look at the git log to find out who worked on this!
+
+Otherwise, this is an outstanding implementation of the game, and it works just as it should.
+I'm looking forward to seeing more of your work on the upcoming projects! :)
+
+SCORE: 50/50
+
+*/
+
